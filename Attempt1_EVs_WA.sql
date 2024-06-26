@@ -1,3 +1,5 @@
+/* SOURCE DATA: https://catalog.data.gov/dataset/electric-vehicle-population-data */
+
 SELECT *
 FROM ev_wa;
 
